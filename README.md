@@ -16,7 +16,7 @@ Run the program and enter a source location and a destination. Then choose an al
 
 ### Prerequisites
 
-- Java 11 or later
+- Java 21 or later
 - `theDatabase.txt` in the working directory
 
 ### Building
